@@ -1,4 +1,4 @@
-package themost.themosttimeapp
+package the.most.timeapp
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("themost.themosttimeapp", appContext.packageName)
+        assertEquals("the.most.timeapp", appContext.packageName)
     }
 }

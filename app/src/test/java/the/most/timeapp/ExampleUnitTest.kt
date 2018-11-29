@@ -1,4 +1,4 @@
-package themost.themosttimeapp
+package the.most.timeapp
 
 import org.junit.Test
 
